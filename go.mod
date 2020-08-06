@@ -1,4 +1,4 @@
-module github.com/maksumic/otaac
+module github.com/maksumic/gohttptest
 
 go 1.14
 
