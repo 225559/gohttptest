@@ -1,4 +1,4 @@
-module github.com/maksumic/gohttptest
+module github.com/225559/gohttptest
 
 go 1.14
 
